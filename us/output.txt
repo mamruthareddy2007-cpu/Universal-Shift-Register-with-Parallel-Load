@@ -1,0 +1,7 @@
+Time=0 | Mode=00 | Parallel_In=0000 | Serial_L=0 | Serial_R=0 | Q=0000
+Time=20 | Mode=11 | Parallel_In=1010 | Serial_L=0 | Serial_R=0 | Q=1010
+Time=30 | Mode=00 | Parallel_In=1010 | Serial_L=0 | Serial_R=0 | Q=1010
+Time=40 | Mode=01 | Parallel_In=1010 | Serial_L=0 | Serial_R=1 | Q=1101
+Time=50 | Mode=01 | Parallel_In=1010 | Serial_L=0 | Serial_R=0 | Q=0110
+Time=60 | Mode=10 | Parallel_In=1010 | Serial_L=1 | Serial_R=0 | Q=1101
+Time=70 | Mode=10 | Parallel_In=1010 | Serial_L=0 | Serial_R=0 | Q=1010
